@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1685032636 source:d:\c++ oop\car rental\main.cpp
+	<iostream>
+	<windows.h>
+	<bits/stdc++.h>
+	<Rentalsystem.h>
+	<car.h>
+	<customer.h>
+
+1684960062 source:d:\c++ oop\car rental\src\car.cpp
+	"car.h"
+	"Date.h"
+
+1684952411 d:\c++ oop\car rental\include\car.h
+	<bits/stdc++.h>
+	"reservation.h"
+	<Date.h>
+
+1685028869 source:d:\c++ oop\car rental\src\customer.cpp
+	"customer.h"
+
+1685028869 d:\c++ oop\car rental\include\customer.h
+	<bits/stdc++.h>
+	<reservation.h>
+
+1685033392 source:d:\c++ oop\car rental\src\rentalsystem.cpp
+	"Rentalsystem.h"
+
+1685028869 d:\c++ oop\car rental\include\rentalsystem.h
+	<car.h>
+	<customer.h>
+	<invoice.h>
+	<reservation.h>
+
+1684956750 source:d:\c++ oop\car rental\src\date.cpp
+	"Date.h"
+
+1684952230 d:\c++ oop\car rental\include\date.h
+	<bits/stdc++.h>
+
+1684973911 source:d:\c++ oop\car rental\src\reservation.cpp
+	"reservation.h"
+
+1684973459 d:\c++ oop\car rental\include\reservation.h
+	<bits/stdc++.h>
+	<Date.h>
+	<invoice.h>
+
+1684974612 source:d:\c++ oop\car rental\src\invoice.cpp
+	"invoice.h"
+
+1684972507 d:\c++ oop\car rental\include\invoice.h
+	<bits/stdc++.h>
+	<rentalagreement.h>
+
+1684974612 source:d:\c++ oop\car rental\src\rentalagreement.cpp
+	"rentalagreement.h"
+
+1684971869 d:\c++ oop\car rental\include\rentalagreement.h
+	<bits/stdc++.h>
+
+1685032636 source:d:\all c++\c++ oop\car rental\main.cpp
+	<iostream>
+	<windows.h>
+	<bits/stdc++.h>
+	<Rentalsystem.h>
+	<car.h>
+	<customer.h>
+
+1685028869 d:\all c++\c++ oop\car rental\include\rentalsystem.h
+	<car.h>
+	<customer.h>
+	<invoice.h>
+	<reservation.h>
+
+1684952411 d:\all c++\c++ oop\car rental\include\car.h
+	<bits/stdc++.h>
+	"reservation.h"
+	<Date.h>
+
+1684973459 d:\all c++\c++ oop\car rental\include\reservation.h
+	<bits/stdc++.h>
+	<Date.h>
+	<invoice.h>
+
+1684952230 d:\all c++\c++ oop\car rental\include\date.h
+	<bits/stdc++.h>
+
+1684972507 d:\all c++\c++ oop\car rental\include\invoice.h
+	<bits/stdc++.h>
+	<rentalagreement.h>
+
+1684971869 d:\all c++\c++ oop\car rental\include\rentalagreement.h
+	<bits/stdc++.h>
+
+1685028869 d:\all c++\c++ oop\car rental\include\customer.h
+	<bits/stdc++.h>
+	<reservation.h>
+
+1684960062 source:d:\all c++\c++ oop\car rental\src\car.cpp
+	"car.h"
+	"Date.h"
+
+1685028869 source:d:\all c++\c++ oop\car rental\src\customer.cpp
+	"customer.h"
+
+1684956750 source:d:\all c++\c++ oop\car rental\src\date.cpp
+	"Date.h"
+
+1684974612 source:d:\all c++\c++ oop\car rental\src\invoice.cpp
+	"invoice.h"
+
+1684974612 source:d:\all c++\c++ oop\car rental\src\rentalagreement.cpp
+	"rentalagreement.h"
+
+1685033392 source:d:\all c++\c++ oop\car rental\src\rentalsystem.cpp
+	"Rentalsystem.h"
+
+1684973911 source:d:\all c++\c++ oop\car rental\src\reservation.cpp
+	"reservation.h"
+
